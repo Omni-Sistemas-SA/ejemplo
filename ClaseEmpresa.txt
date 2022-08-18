@@ -1,0 +1,31 @@
+public class Empresa{
+
+private String nombre;
+private String direccion;
+private String telefono
+Private String nit;
+
+
+
+
+
+   public Empresa {
+        }
+
+
+public String getNombre() {
+  return this.nombre;
+}
+
+public void SetNombre(String nombre) {
+  this.nombre = nombre;
+}
+public String getDireccion() {
+  return this.direccion;
+}
+
+public void SetDireccion(String nombre) {
+  this.nombre = nombre;
+}
+
+}
